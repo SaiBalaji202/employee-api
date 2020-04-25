@@ -43,7 +43,7 @@ Header
 Body
 ```
 {
-	"name": "abcd", 
+	"name": "x", 
 	"status": "inactive", 
 	"date": "2020-04-22"
 }
@@ -60,7 +60,7 @@ Header
 Body
 ```
 {
-	"name": "abcd", 
+	"name": "x", 
 	"status": "active", 
 	"date": "2020-04-21"
 }
