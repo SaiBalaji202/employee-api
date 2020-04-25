@@ -32,13 +32,13 @@ exit
 2) GET - http://localhost:5000/employees?name=<employee_name>
 3) GET - http://localhost:5000/employee/<employee_id>
 4) POST - http://localhost:5000/employee
-Header
+HeaderDetails
 ```
 {
 'Content-Type': 'application/json'
 }
 ```
-Body
+BodyDetails
 ```
 {
 	"name": "abcd", 
@@ -47,13 +47,13 @@ Body
 }
 ```
 5) PUT - http://localhost:5000/employee/<employee_id>
-Header
+HeaderDetails
 ```
 {
 'Content-Type': 'application/json'
 }
 ```
-Body
+BodyDetails
 ```
 {
 	"name": "abcd", 
