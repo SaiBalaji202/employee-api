@@ -34,13 +34,13 @@ exit
 4) POST - http://localhost:5000/employee
 
 
-###Header
+Header
 ```
 {
 'Content-Type': 'application/json'
 }
 ```
-###Body
+Body
 ```
 {
 	"name": "abcd", 
@@ -51,13 +51,13 @@ exit
 5) PUT - http://localhost:5000/employee/<employee_id>
 
 
-###Header
+Header
 ```
 {
 'Content-Type': 'application/json'
 }
 ```
-###Body
+Body
 ```
 {
 	"name": "abcd", 
